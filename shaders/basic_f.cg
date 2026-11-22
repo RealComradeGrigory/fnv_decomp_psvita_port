@@ -1,0 +1,22 @@
+// basic_f.cg - Basic 3D mesh fragment shader
+// Simple directional lighting + solid color. No textures yet (Phase 1).
+// Compile: psp2cgc -profile sce_fp_psp2 basic_f.cg -o basic_f.gxp
+
+float4 main(
+    float3 vNormal   : TEXCOORD1,
+    float2 vTexcoord : TEXCOORD0
+) : COLOR {
+    // Normalize the interpolated normal
+    float3 N = normalize(vNormal);
+
+    // Simple directional light from upper-right
+    float3 lightDir = normalize(float3(0.5, 0.8, 0.6));
+    float NdotL = max(dot(N, lightDir), 0.0);
+
+    // Ambient + diffuse
+    float3 ambient = float3(0.15, 0.15, 0.2);
+    float3 diffuse = float3(0.8, 0.75, 0.7) * NdotL;
+
+    float3 color = ambient + diffuse;
+    return float4(color, 1.0);
+}

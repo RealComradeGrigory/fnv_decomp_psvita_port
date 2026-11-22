@@ -1,0 +1,11 @@
+// clear_v.cg - Fullscreen clear vertex shader
+// Compile: psp2cgc -profile sce_vp_psp2 clear_v.cg -o clear_v.gxp
+
+void main(
+    float2 position : POSITION,
+    float2 out vPosition : POSITION,
+    float2 out vTexcoord : TEXCOORD0
+) {
+    vPosition = position;
+    vTexcoord = position * 0.5 + 0.5;
+}

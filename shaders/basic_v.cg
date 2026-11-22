@@ -1,0 +1,18 @@
+// basic_v.cg - Basic 3D mesh vertex shader
+// Transforms vertices by MVP matrix, passes normal and UV to fragment shader.
+// Compile: psp2cgc -profile sce_vp_psp2 basic_v.cg -o basic_v.gxp
+
+uniform float4x4 wvp;
+
+void main(
+    float3 aPosition : POSITION,
+    float3 aNormal   : NORMAL,
+    float2 aTexcoord : TEXCOORD0,
+    float4 out vPosition : POSITION,
+    float3 out vNormal   : TEXCOORD1,
+    float2 out vTexcoord : TEXCOORD0
+) {
+    vPosition = mul(wvp, float4(aPosition, 1.0));
+    vNormal   = aNormal;
+    vTexcoord = aTexcoord;
+}

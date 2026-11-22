@@ -1,0 +1,8 @@
+// clear_f.cg - Fullscreen clear fragment shader
+// Compile: psp2cgc -profile sce_fp_psp2 clear_f.cg -o clear_f.gxp
+
+uniform float4 clearColor;
+
+float4 main() : COLOR {
+    return clearColor;
+}
