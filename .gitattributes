@@ -1,0 +1,2 @@
+*.fwp filter=lfs diff=lfs merge=lfs -text
+*.vma filter=lfs diff=lfs merge=lfs -text

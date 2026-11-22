@@ -1,0 +1,53 @@
+{
+  "1077793": {
+    "topic": "GREETING",
+    "lines": [
+      "I expect you'll be wanting to go outside after being cooped up for so long, but if you have any questions, I'll answer what I can."
+    ]
+  },
+  "1433914": {
+    "topic": "Goodbye.",
+    "lines": [
+      "You take care, now."
+    ]
+  },
+  "1078417": {
+    "topic": "Tell me about yourself, Doc.",
+    "lines": [
+      "Well, I already told you I came from a vault. After that, was a traveling doctor for a spell.",
+      "Seemed like a good idea at the time. Most folks out here ain't educated, so people with medical knowhow are hard to come by.",
+      "Found that I could help a lot of people with what I knew, and that was all right with me.",
+      "Eventually, I went back and married my childhood sweetheart and that was the end of my traveling days. Didn't miss it none then. Still don't."
+    ]
+  },
+  "1078419": {
+    "topic": "What else can you tell me about Goodsprings?",
+    "lines": [
+      "Well, there's a general store just up the road. Run by a fella named Chet. He don't got nothing fancy, but he's got your basics covered.",
+      "If you're looking to wet your whistle, just past Chet's is the Prospector Saloon. The bartender there, Trudy, knows everyone in town.",
+      "Other than that, there's not much to see. Just people trying to scratch out a living."
+    ]
+  },
+  "1078425": {
+    "topic": "What town is this?",
+    "lines": [
+      "This here's Goodsprings. Named after the water we got here, just down the road to the southeast. Goodsprings Source, they call it.",
+      "It's a quiet town, and that's how we like it. We don't go looking for trouble, though occasionally it sees fit to come looking for us."
+    ]
+  },
+  "1078418": {
+    "topic": "Do you know anything about the man that shot me?",
+    "lines": [
+      "I didn't see him or the men with him. You might ask around town, though. Could be someone saw which way they was headed.",
+      "Your best bet would probably be Trudy, the bartender at the saloon up the road. If anyone saw anything, she'd know about it."
+    ]
+  },
+  "1078430": {
+    "topic": "Who was it that rescued me?",
+    "lines": [
+      "That'd be Victor. Curious fella. Sort of odd. And I don't just mean 'cause he's a robot. I couldn't tell you much about him.",
+      "He's real friendly, don't get me wrong. You just get the sense that ain't the whole picture. Just a feeling.",
+      "Keeps to himself, mostly. You want to know more about him, you'll have to ask him yourself. He has a shack on the southern edge of town."
+    ]
+  }
+}

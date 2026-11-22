@@ -1,0 +1,80 @@
+[
+  {
+    "source": "meshes\\armor\\republicans\\republican_02.nif",
+    "output": "doc_body.nif",
+    "vertices": 3811,
+    "bind_reconstruction_error": 1.9397881195809203e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\righthand.nif",
+    "output": "doc_right.nif",
+    "vertices": 780,
+    "bind_reconstruction_error": 1.6840549499938832e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\lefthand.nif",
+    "output": "doc_left.nif",
+    "vertices": 780,
+    "bind_reconstruction_error": 2.83342513917234e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\righthand1st.nif",
+    "output": "hands0_right.nif",
+    "vertices": 780,
+    "bind_reconstruction_error": 3.394959402962859e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\lefthandpipboyglove1st.nif",
+    "output": "hands0_left.nif",
+    "vertices": 1032,
+    "bind_reconstruction_error": 0.00021299845428479657
+  },
+  {
+    "source": "meshes\\characters\\_male\\righthand1st.nif",
+    "output": "hands1_right.nif",
+    "vertices": 780,
+    "bind_reconstruction_error": 3.394959402962859e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\lefthandpipboyglove1st.nif",
+    "output": "hands1_left.nif",
+    "vertices": 1032,
+    "bind_reconstruction_error": 0.00021299845428479657
+  },
+  {
+    "source": "meshes\\characters\\_male\\righthand1st.nif",
+    "output": "hands2_right.nif",
+    "vertices": 780,
+    "bind_reconstruction_error": 3.394959402962859e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\lefthandpipboyglove1st.nif",
+    "output": "hands2_left.nif",
+    "vertices": 1032,
+    "bind_reconstruction_error": 0.00021299845428479657
+  },
+  {
+    "source": "meshes\\characters\\_male\\righthand1st.nif",
+    "output": "hands3_right.nif",
+    "vertices": 780,
+    "bind_reconstruction_error": 3.394959402962859e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\lefthandpipboyglove1st.nif",
+    "output": "hands3_left.nif",
+    "vertices": 1032,
+    "bind_reconstruction_error": 0.00021299845428479657
+  },
+  {
+    "source": "meshes\\characters\\_male\\righthand1st.nif",
+    "output": "hands4_right.nif",
+    "vertices": 780,
+    "bind_reconstruction_error": 3.394959402962859e-05
+  },
+  {
+    "source": "meshes\\characters\\_male\\lefthandpipboyglove1st.nif",
+    "output": "hands4_left.nif",
+    "vertices": 1032,
+    "bind_reconstruction_error": 0.00021299845428479657
+  }
+]

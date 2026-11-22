@@ -11,3 +11,14 @@ results*.json
 /out/
 /obj/
 __pycache__/
+
+# Build outputs and IDE files
+build/
+/build/
+*.vpk
+eboot.bin
+.ninja_*
+.cache/
+.vs/
+.vscode/
+

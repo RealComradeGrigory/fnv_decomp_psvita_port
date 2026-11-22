@@ -1,0 +1,632 @@
+{
+  "esm_sha256": "50991d36804b7d1e70df1afd7471b72f0e29d1b456ee2516a9717c002564e7c1",
+  "worlds": [
+    {
+      "world": 204306,
+      "editor_id": "FFEncounterWorld",
+      "tiles": 86,
+      "terrain_tiles": 0,
+      "placed_models": 6,
+      "doors": 0,
+      "bytes": 3541
+    },
+    {
+      "world": 734757,
+      "editor_id": "FXInvertedDaylightWorld",
+      "tiles": 28,
+      "terrain_tiles": 0,
+      "placed_models": 0,
+      "doors": 0,
+      "bytes": 1108
+    },
+    {
+      "world": 880700,
+      "editor_id": "TestMap01",
+      "tiles": 301,
+      "terrain_tiles": 21,
+      "placed_models": 876,
+      "doors": 0,
+      "bytes": 168082
+    },
+    {
+      "world": 894758,
+      "editor_id": "WastelandNV",
+      "tiles": 16396,
+      "terrain_tiles": 16386,
+      "placed_models": 137970,
+      "doors": 365,
+      "bytes": 116824279
+    },
+    {
+      "world": 1097450,
+      "editor_id": "FreesideWorld",
+      "tiles": 255,
+      "terrain_tiles": 43,
+      "placed_models": 1758,
+      "doors": 6,
+      "bytes": 244984
+    },
+    {
+      "world": 1115688,
+      "editor_id": "GamorrahWorld",
+      "tiles": 133,
+      "terrain_tiles": 23,
+      "placed_models": 1178,
+      "doors": 6,
+      "bytes": 57774
+    },
+    {
+      "world": 1222932,
+      "editor_id": "GreenhouseWorld01",
+      "tiles": 25,
+      "terrain_tiles": 10,
+      "placed_models": 960,
+      "doors": 22,
+      "bytes": 42482
+    },
+    {
+      "world": 1235277,
+      "editor_id": "FreesideNorthWorld",
+      "tiles": 171,
+      "terrain_tiles": 46,
+      "placed_models": 1860,
+      "doors": 8,
+      "bytes": 245545
+    },
+    {
+      "world": 1235278,
+      "editor_id": "FreesideFortWorld",
+      "tiles": 289,
+      "terrain_tiles": 43,
+      "placed_models": 644,
+      "doors": 3,
+      "bytes": 193994
+    },
+    {
+      "world": 1291016,
+      "editor_id": "TheStripWorldNew",
+      "tiles": 4096,
+      "terrain_tiles": 4095,
+      "placed_models": 1097,
+      "doors": 25,
+      "bytes": 13919300
+    },
+    {
+      "world": 1294518,
+      "editor_id": "TheFortWorld",
+      "tiles": 13,
+      "terrain_tiles": 13,
+      "placed_models": 227,
+      "doors": 1,
+      "bytes": 34251
+    },
+    {
+      "world": 1346565,
+      "editor_id": "WastelandNVmini",
+      "tiles": 4096,
+      "terrain_tiles": 4096,
+      "placed_models": 5709,
+      "doors": 44,
+      "bytes": 19133134
+    },
+    {
+      "world": 1361699,
+      "editor_id": "BoulderCityWorld",
+      "tiles": 111,
+      "terrain_tiles": 83,
+      "placed_models": 1363,
+      "doors": 2,
+      "bytes": 556203
+    },
+    {
+      "world": 1496852,
+      "editor_id": "Lucky38World",
+      "tiles": 4096,
+      "terrain_tiles": 4096,
+      "placed_models": 1629,
+      "doors": 1,
+      "bytes": 18102427
+    }
+  ],
+  "interiors": 388,
+  "terrain_tiles": 28955,
+  "placed_models": 282717,
+  "doors": 1099,
+  "models": 12316,
+  "editor_marker_base_forms_excluded": 78,
+  "land_texture_paths": 88,
+  "source_record_errors": [
+    {
+      "form": 1380288,
+      "type": "LAND",
+      "world": 1291016,
+      "cell": 1374562,
+      "error": "Error -3 while decompressing data: incorrect data check"
+    }
+  ],
+  "terrain_seam_mismatches": [
+    {
+      "world": 894758,
+      "grid": [
+        -1,
+        -64
+      ],
+      "neighbor": [
+        0,
+        -64
+      ],
+      "max_difference": 1312.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        23,
+        -59
+      ],
+      "neighbor": [
+        24,
+        -59
+      ],
+      "max_difference": 104.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        24,
+        -59
+      ],
+      "neighbor": [
+        25,
+        -59
+      ],
+      "max_difference": 136.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        26,
+        -59
+      ],
+      "neighbor": [
+        27,
+        -59
+      ],
+      "max_difference": 136.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        22,
+        -58
+      ],
+      "neighbor": [
+        23,
+        -58
+      ],
+      "max_difference": 192.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        23,
+        -58
+      ],
+      "neighbor": [
+        24,
+        -58
+      ],
+      "max_difference": 192.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        23,
+        -58
+      ],
+      "neighbor": [
+        23,
+        -57
+      ],
+      "max_difference": 192.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        21,
+        -57
+      ],
+      "neighbor": [
+        22,
+        -57
+      ],
+      "max_difference": 32.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        21,
+        -57
+      ],
+      "neighbor": [
+        21,
+        -56
+      ],
+      "max_difference": 64.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        22,
+        -57
+      ],
+      "neighbor": [
+        23,
+        -57
+      ],
+      "max_difference": 32.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        22,
+        -57
+      ],
+      "neighbor": [
+        22,
+        -56
+      ],
+      "max_difference": 32.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        17,
+        -56
+      ],
+      "neighbor": [
+        18,
+        -56
+      ],
+      "max_difference": 208.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        20,
+        -56
+      ],
+      "neighbor": [
+        21,
+        -56
+      ],
+      "max_difference": 80.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        16,
+        -55
+      ],
+      "neighbor": [
+        17,
+        -55
+      ],
+      "max_difference": 208.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        17,
+        -55
+      ],
+      "neighbor": [
+        18,
+        -55
+      ],
+      "max_difference": 208.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        17,
+        -55
+      ],
+      "neighbor": [
+        17,
+        -54
+      ],
+      "max_difference": 208.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        19,
+        -55
+      ],
+      "neighbor": [
+        20,
+        -55
+      ],
+      "max_difference": 416.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        56,
+        -46
+      ],
+      "neighbor": [
+        57,
+        -46
+      ],
+      "max_difference": 32.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        56,
+        -46
+      ],
+      "neighbor": [
+        56,
+        -45
+      ],
+      "max_difference": 32.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        19,
+        -8
+      ],
+      "neighbor": [
+        20,
+        -8
+      ],
+      "max_difference": 8.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        -64,
+        -1
+      ],
+      "neighbor": [
+        -64,
+        0
+      ],
+      "max_difference": 16.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        -44,
+        -1
+      ],
+      "neighbor": [
+        -44,
+        0
+      ],
+      "max_difference": 96.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        63,
+        -1
+      ],
+      "neighbor": [
+        63,
+        0
+      ],
+      "max_difference": 984.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        55,
+        9
+      ],
+      "neighbor": [
+        56,
+        9
+      ],
+      "max_difference": 184.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        56,
+        9
+      ],
+      "neighbor": [
+        57,
+        9
+      ],
+      "max_difference": 184.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        56,
+        9
+      ],
+      "neighbor": [
+        56,
+        10
+      ],
+      "max_difference": 184.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        57,
+        9
+      ],
+      "neighbor": [
+        58,
+        9
+      ],
+      "max_difference": 376.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        58,
+        9
+      ],
+      "neighbor": [
+        59,
+        9
+      ],
+      "max_difference": 376.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        58,
+        9
+      ],
+      "neighbor": [
+        58,
+        10
+      ],
+      "max_difference": 376.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        54,
+        11
+      ],
+      "neighbor": [
+        55,
+        11
+      ],
+      "max_difference": 184.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        55,
+        11
+      ],
+      "neighbor": [
+        56,
+        11
+      ],
+      "max_difference": 368.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        55,
+        11
+      ],
+      "neighbor": [
+        55,
+        12
+      ],
+      "max_difference": 184.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        56,
+        11
+      ],
+      "neighbor": [
+        57,
+        11
+      ],
+      "max_difference": 184.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        56,
+        11
+      ],
+      "neighbor": [
+        56,
+        12
+      ],
+      "max_difference": 184.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        -15,
+        15
+      ],
+      "neighbor": [
+        -14,
+        15
+      ],
+      "max_difference": 8.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        -14,
+        17
+      ],
+      "neighbor": [
+        -14,
+        18
+      ],
+      "max_difference": 8.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        5,
+        25
+      ],
+      "neighbor": [
+        5,
+        26
+      ],
+      "max_difference": 8.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        -1,
+        63
+      ],
+      "neighbor": [
+        0,
+        63
+      ],
+      "max_difference": 24.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        -1,
+        63
+      ],
+      "neighbor": [
+        -1,
+        64
+      ],
+      "max_difference": 912.0
+    },
+    {
+      "world": 894758,
+      "grid": [
+        0,
+        63
+      ],
+      "neighbor": [
+        0,
+        64
+      ],
+      "max_difference": 928.0
+    }
+  ],
+  "runtime_verified": false,
+  "hardware_verified": false,
+  "scope": "FalloutNV.esm initial enabled map geometry; no DLC overrides or quest state execution"
+}
