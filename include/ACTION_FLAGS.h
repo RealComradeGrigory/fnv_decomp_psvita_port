@@ -1,7 +1,0 @@
-#pragma once
-
-enum ACTION_FLAGS
-{
-    ACTION_FLAGS_ACTION_NORMAL = 0,
-    ACTION_FLAGS_ACTION_START = 1,
-};
