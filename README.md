@@ -1,4 +1,5 @@
 Instalation instruction:
+
 1. download and install vpk
 2. inside of ux0:data create folder called fnv_vita
 3. inside of fnv_vita folder create "data" folder
@@ -8,3 +9,5 @@ Fallout - Sound.bsa
 Fallout - Textures.bsa
 Fallout - Textures2.bsa
 FalloutNV.esm
+
+Now launch the game and it should run
